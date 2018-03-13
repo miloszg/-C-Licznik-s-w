@@ -1,2 +1,2 @@
-# -C-Licznik-s-w
+# Word-Counter
 Program liczący słowa z notatnika
